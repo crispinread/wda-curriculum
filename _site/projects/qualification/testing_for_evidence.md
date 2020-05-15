@@ -1,5 +1,18 @@
 ---
-permalink: /session/testing_evidence
+layout: layouts/post-sidebar.njk
+title: 'Testing as Evidence'
+sidebar: qual
+summary: 
+eleventyNavigation:
+  key: testing_evidence
+  title: 'Testing as Evidence'
+  parent: qual
+  order: 2
+tags:
+  - sessions
+  - qualification
+  - testing
+  - evidence
 ---
 # Testing as Evidence
 Last reviewed **15 March 2019** by **Crispin Read**

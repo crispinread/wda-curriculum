@@ -1,7 +1,19 @@
 ---
-permalink: /session/course_overview
+layout: layouts/post-sidebar.njk
+title: 'Course Overview'
+sidebar: qual
+summary: 
+eleventyNavigation:
+  key: overview
+  title: 'Course Overview'
+  parent: qual
+  order: 3
+tags:
+  - sessions
+  - qualification
+  - overview
 ---
-# Lesson Plan Template
+# Course Overview
 Last reviewed **23 October 2018** by **Crispin Read**
 
 ## Description
