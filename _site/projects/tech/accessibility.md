@@ -6,7 +6,7 @@ summary:
 eleventyNavigation:
   key: sessions-accessibility
   title: 'Accessibility'
-  parent: sessions
+  parent: tech
   order: 2
 tags:
   - sessions
