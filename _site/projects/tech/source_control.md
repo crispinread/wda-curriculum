@@ -1,5 +1,17 @@
 ---
-permalink: /session/source_control
+layout: layouts/post-sidebar.njk
+title: 'Source Control'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: source  control
+  title: 'Source Control'
+  parent: tech
+  order: 18
+tags:
+  - tech
+  - git
+  - sourec control
 ---
 # Source control
 Last reviewed **04 Sept 2019** by **Crispin Read**

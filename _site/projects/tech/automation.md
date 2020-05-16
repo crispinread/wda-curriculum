@@ -1,5 +1,16 @@
 ---
-permalink: /session/automation
+layout: layouts/post-sidebar.njk
+title: 'Automation'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: automation
+  title: 'Automation'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - automation
 ---
 
 # Lesson Plan Template

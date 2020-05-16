@@ -1,5 +1,17 @@
 ---
-permalink: /session/scrum
+layout: layouts/post-sidebar.njk
+title: 'SCRUM and Kanban'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: scrum
+  title: 'Scrum and Kanban'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - agile
+  - scrum
 ---
 # SCRUM and Kanban
 Last reviewed **23 Aug 2018** by **Crispin Read**

@@ -1,19 +1,17 @@
 ---
-layout: layouts/post-sidebar.njk
-title: 'Defining  MVP'
-sidebar: sessions
-summary: 
-eleventyNavigation:
-  key: MVP
-  title: 'Defining MVP'
-  parent: tech
-  order: 2
+title: 'Privacy'
+summary: There are laws that govern privacy but as developers we are at the front line. Who should take responsibility for the provacy of the users who use the products we develop?
+thumb: '/images/courses/cssforms_tn.png'
+hero: '/images/courses/cssforms.jpg'
+links:
+  - lil: https://linkedin-learning.pxf.io/c/1252977/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-styling-forms
 tags:
-  - tech
-  - accessibility
+  - privacy
+  - ethics
 ---
-# Lesson Plan Template
-Last reviewed **07 January 2020** by **Crispin Read**
+
+# Privacy
+Last reviewed **25 April 2019** by **Crispin Read**
 
 ## Description
 An overview of the subject material.
@@ -35,16 +33,21 @@ Before starting this session you will need:
 
 ## Outline
 An overview of the session should mirror slide deck
-  1. Project planning
-  1.
+  1. Intro to topic
+  1. Use in real world
+      - example 1
+      - example 2
+      - example 3
+  1. More info
+  1. Etc.
 
 ## Tasks
-To be completed as part of this traiing session
+To be completed as part of this training session
   1. Link to Glitch
   1. Link to repo on GitHub
 
 ### Further Tasks
-Additional to the training session, to be completed in apprentices own time (non mandetory).
+Additional to the training session, to be completed in apprentices own time (non mandatory).
   1. Additional versions of session tasks for your project
   1. Additional versions of session tasks for something at work
   1. Link to challenge repo on GitHub

@@ -1,5 +1,16 @@
 ---
-permalink: /session/ucd
+layout: layouts/post-sidebar.njk
+title: 'User Centred D`evelopment'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: ucd
+  title: 'UCD'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - ucd
 ---
 # User Centred Development
 Last reviewed **23 Juan 2019** by **Crispin Read**

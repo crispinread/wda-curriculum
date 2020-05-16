@@ -15,7 +15,9 @@ module.exports = function(collection) {
           case 'posts':
           case 'course':
           case 'courses':
-            return false
+          case 'event':
+          case 'events':
+          return false
         }
         return true
       })

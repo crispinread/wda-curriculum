@@ -1,5 +1,17 @@
 ---
-permalink: /session/oop
+layout: layouts/post-sidebar.njk
+title: 'Object Oriented Programming'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: oop
+  title: 'Object Oriented Programming'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - oo
+  - object oriented
 ---
 # Object Oriented Programming
 Last reviewed **22 November 2018** by **Crispin Read**

@@ -1,5 +1,16 @@
 ---
-permalink: /session/debugging
+layout: layouts/post-sidebar.njk
+title: 'Debugging'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: debugging
+  title: 'Debugging'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - debugging
 ---
 # Debugging
 Last reviewed **27 June 2019** by **Alex Seymour**

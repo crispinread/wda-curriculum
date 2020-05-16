@@ -1,5 +1,18 @@
 ---
-permalink: /session/ooux
+layout: layouts/post-sidebar.njk
+title: 'OOUX'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: ooux
+  title: 'OOUX and Object Mapping'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - oo
+  - object oriented
+  - mapping
 ---
 # OOUX and Object Mapping
 Last reviewed **28 Aug 2018** by **Crispin Read**

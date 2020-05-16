@@ -4,12 +4,12 @@ title: 'Accessibility'
 sidebar: sessions
 summary: 
 eleventyNavigation:
-  key: sessions-accessibility
+  key: accessibility
   title: 'Accessibility'
   parent: tech
-  order: 2
+  order: 17
 tags:
-  - sessions
+  - tech
   - accessibility
 ---
 # Accessibility

@@ -38,9 +38,9 @@ module.exports = function(eleventyConfig) {
     return collection.getFilteredByGlob('./_site/posts/*.md').reverse()
   })
 
-  // only content in the `courses` directory
-  eleventyConfig.addCollection('courses', function(collection) {
-    return collection.getFilteredByGlob('./_site/courses/*.md').reverse()
+  // only content in the `workshops` directory
+  eleventyConfig.addCollection('workshops', function(collection) {
+    return collection.getFilteredByGlob('./_site/workshops/*.md').reverse()
   })
 
   // only content in the `projects` directory

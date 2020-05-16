@@ -1,5 +1,16 @@
 ---
-permalink: /session/agile
+layout: layouts/post-sidebar.njk
+title: 'Agile'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: agile
+  title: 'Agile'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - agile
 ---
 # Agile theory and Practice
 Last reviewed **30 April 2018** by **Crispin Read**

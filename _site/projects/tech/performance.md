@@ -1,5 +1,16 @@
 ---
-permalink: /session/performance
+layout: layouts/post-sidebar.njk
+title: 'Performance'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: oop
+  title: 'Performance'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - performance
 ---
 # Performance
 Last reviewed **24 April 2019** by **Crispin Read**

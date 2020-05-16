@@ -1,5 +1,17 @@
 ---
-permalink: /session/atomic
+layout: layouts/post-sidebar.njk
+title: 'Atomic Design'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: atomic
+  title: 'Atomic Design'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - atomic
+  - design
 ---
 # Atomic Design
 Last reviewed **23 June 2019** by **Andy Fowlston**

@@ -1,5 +1,16 @@
 ---
-permalink: /session/testing
+layout: layouts/post-sidebar.njk
+title: 'Testing'
+sidebar: sessions
+summary: 
+eleventyNavigation:
+  key: testing
+  title: 'Testing'
+  parent: tech
+  order: 2
+tags:
+  - tech
+  - testing
 ---
 # Introduction to Testing
 Last reviewed **13 Feb 2020** by **Crispin Read**
